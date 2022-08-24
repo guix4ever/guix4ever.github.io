@@ -1,0 +1,1 @@
+[{"type":"dialog","speaker":"","content":"找老师结束了，回班","vocal":"","ignoreSpeaker":false},{"type":"free","content":"setVar c=c+1;"},{"type":"changeScene","newScene":"晚修快结束了.txt"}]

@@ -1,0 +1,1 @@
+[{"type":"dialog","speaker":"","content":"女同学事件好开心，洗澡吗？","vocal":"","ignoreSpeaker":false},{"type":"free","content":"c=c+1;"},{"type":"choose","chooseItem":[{"text":"晚修结束再洗","scene":"晚修未洗澡.txt"},{"text":"现在就洗","scene":"晚修洗澡.txt"}]}]

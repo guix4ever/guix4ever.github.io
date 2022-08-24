@@ -1,0 +1,1 @@
+[{"type":"dialog","speaker":"","content":"中午玩困了，今天的课表是？","vocal":"","ignoreSpeaker":false},{"type":"choose","chooseItem":[{"text":"英语","scene":"随意英语.txt"},{"text":"数学","scene":"随意数学.txt"}]}]

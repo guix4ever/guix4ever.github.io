@@ -1,0 +1,1 @@
+[{"type":"dialog","speaker":"同桌","content":"555你是没洗澡吗？","vocal":"","ignoreSpeaker":false},{"type":"dialog","speaker":"我","content":"晚修结束后就去洗，别叫叫了","vocal":"","ignoreSpeaker":false},{"type":"changeScene","newScene":"晚修开始.txt"}]

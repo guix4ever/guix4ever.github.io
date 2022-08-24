@@ -1,0 +1,1 @@
+[{"type":"dialog","speaker":"","content":"今天晚修的安排是？","vocal":"","ignoreSpeaker":false},{"type":"choose","chooseItem":[{"text":"找老师辅导","scene":"晚修找老师辅导.txt"},{"text":"自习","scene":"晚修自习.txt"}]}]

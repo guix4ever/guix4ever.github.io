@@ -1,0 +1,1 @@
+[{"type":"dialog","speaker":"","content":"某男同学和某女同学都来找我，我该去做什么呢？","vocal":"","ignoreSpeaker":false},{"type":"choose","chooseItem":[{"text":"选择女同学","scene":"女同学事件.txt"},{"text":"选择男同学","scene":"男同学事件.txt"},{"text":"委婉拒绝，去吃饭洗澡，提早到教学楼","scene":"晚修提早到班.txt"}]}]

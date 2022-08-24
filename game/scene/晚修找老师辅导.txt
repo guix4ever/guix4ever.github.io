@@ -1,0 +1,3 @@
+找老师结束了，回班;
+setVar c=c+1;
+changeScene:晚修快结束了.txt;

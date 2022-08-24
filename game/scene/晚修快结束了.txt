@@ -1,0 +1,2 @@
+晚修结束，回宿舍;
+changeScene:结局5.txt -when=a=3;

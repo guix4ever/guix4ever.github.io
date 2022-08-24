@@ -1,0 +1,3 @@
+提早到班，开卷！;
+setVar a=a+1;
+changeScene:晚修开始.txt;
